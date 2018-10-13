@@ -685,7 +685,7 @@
 				});
 			}
 
-			_toggleClass(dragEl, options.dragClass, true);
+			// _toggleClass(dragEl, options.dragClass, true);
 
 			if (useFallback) {
 				if (useFallback === 'touch') {
